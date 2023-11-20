@@ -1,3 +1,4 @@
 # Git-Demo
 This is my first Repository
-Author - Daniel Hashmi
+<br>
+<b>Author</b> - <i>Daniel Hashmi</i>
