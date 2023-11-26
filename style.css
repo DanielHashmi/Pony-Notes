@@ -3,12 +3,14 @@
     padding: 0;
 }
 
+
 body {
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: cadetblue;
 }
+
 
 .mainDiv {
     background-color: rgb(255, 255, 255);
@@ -20,21 +22,18 @@ body {
     align-items: center;
     justify-content: unset;
     flex-direction: column;
-
 }
+
 
 .inputSec {
     margin-top: 130px;
-    /* background-color: antiquewhite; */
-    /* height: 98vh; */
     width: auto;
     position: relative;
-    /* left: 11%; */
     top: 20px;
     display: flex;
     align-items: end;
-
 }
+
 
 .inp {
     height: 3vh;
@@ -45,28 +44,34 @@ body {
     font-size: 33px;
 }
 
+
 .fas {
     font-size: 31px;
     text-align: end;
 }
 
+
 .adds {
-    /* background-color: rgb(255, 249, 220); */
     height: auto;
     width: auto;
     margin-top: 55px;
 }
 
+
 .para {
     font-size: 80px;
 }
 
+
 h2 {
     font-size: 80px;
     font-family: cursive;
-    text-decoration:underline;
+    text-decoration: none;
+    cursor: pointer;
 }
-.header{
+
+
+.header {
     font-size: 113px;
     font-family: fangsong;
 }
