@@ -1,4 +1,6 @@
-
+<i><b>Click the link to open the Website - https://danielhashmi.github.io/Pony-Notes</b></i>
+<br>
+<br>
 <i><b>Instuctions</b></i>
 <br>
 <br>
