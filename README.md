@@ -1,4 +1,3 @@
-<i><b>Click the link to open the Website - https://danielhashmi.github.io/Pony-Notes</b></i>
 <b><i>Click this button to open the Project - <a href="https://danielhashmi.github.io/Pony-Notes">Open Project</a></i></b>
 <br>
 <br>
